@@ -16,7 +16,7 @@ int main() {
         int attempts = 0;
         const int MAX_ATTEMPTS = 10;
         
-        cout << "\n=== Number Guessing Game ===\n";
+        cout << "\n***** Number Guessing Game *****\n";
         cout << "I'm thinking of a number between 1 and 100.\n";
         cout << "You have " << MAX_ATTEMPTS << " attempts to guess it!\n\n";
         
@@ -78,3 +78,4 @@ int main() {
     cout << "\nThanks for playing! Goodbye!\n";
     return 0;
 }
+
