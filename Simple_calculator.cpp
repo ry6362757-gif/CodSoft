@@ -123,3 +123,4 @@ double divide(double a, double b) {
 bool isValidChoice(char choice) {
     return (choice == '+' || choice == '-' || choice == '*' || choice == '/');
 }
+
